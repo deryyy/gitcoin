@@ -1,0 +1,5 @@
+  mainnet: ckb1qyq82ywxcpddws4uyvyqhypt2n2zak8glcss2xwnqg
+  testnet: ckt1qyq82ywxcpddws4uyvyqhypt2n2zak8glcsshrsvv5
+lock_arg: 0x7511c6c05ad742bc23080b902b54d42ed8e8fe21
+lock_hash: 0x29c6b1f2dac426cd38c8189eecff7af657e104bb5df3a6256c952549c0d21a47
+
