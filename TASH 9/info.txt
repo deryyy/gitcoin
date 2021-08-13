@@ -1,0 +1,18 @@
+  raw: {
+    nonce: '0x0',
+    capacity: '0x9502f9000',
+    amount: '0x0',
+    sudt_script_hash: '0x0000000000000000000000000000000000000000000000000000000000000000',
+    account_script_hash: '0x2e0994fda2ac493a175b7d9513f7c100dc0508dde3a5d7a0083c06dcfc06c8bf',
+    sell_amount: '0x0',
+    sell_capacity: '0x2540be400',
+    owner_lock_hash: '0x29c6b1f2dac426cd38c8189eecff7af657e104bb5df3a6256c952549c0d21a47',
+    payment_lock_hash: '0x0000000000000000000000000000000000000000000000000000000000000000',
+    fee: { sudt_id: 1, amount: 0n }
+  },
+  signature: '0x59a622e913f4a5c6134dca2e3dc8d2522af030a40d1075a484cef424a1ef53cd22a890867ee9fc120fb2faaec5a9fd495f3522d9e8d81beac5342701355640bd00'
+}
+result: null
+--- godwoken withdraw finished ---
+Your account id: 1894
+ckb balance in godwoken is: 200000000000
