@@ -4,7 +4,7 @@ https://explorer.nervos.org/aggron/address/ckt1qyq82ywxcpddws4uyvyqhypt2n2zak8gl
 ### 2. create your SUDT tokens on Layer 1
 <img src="https://raw.githubusercontent.com/deryyy/gitcoin/main/tast%204/info.png">
 ### 4.Deposit to Layer 2
-<img src="https://raw.githubusercontent.com/deryyy/gitcoin/main/tast%204/info.png">
+<img src="https://raw.githubusercontent.com/deryyy/gitcoin/main/tast%204/depo.png">
 
 ### 5.SUDT ID :2125
 
