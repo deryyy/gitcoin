@@ -17,4 +17,4 @@ ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5
 https://rinkeby.etherscan.io/tx/0x77a32c225f04f83c3ba07306085ef43b237d0130c742995d20978b5898c2b76e
 
 5.A link to the Nervos explorer for the successful Force bridge transaction. This can be found on Force Bridge under History→Succeed.
-https://explorer.nervos.org/aggron/address/ckt1q3vvtay34wndv9nckl8hah6fzzcltcqwcrx79apwp2a5lkd07fdx86p5lqwjj7q943wwm39xdyggs
+https://explorer.nervos.org/aggron/address/ckt1q3vvtay34wndv9nckl8hah6fzzcltcqwcrx79apwp2a5lkd07fdx86p5lqwjj7q943wwm39xdyggswmqskn0y48axgn
