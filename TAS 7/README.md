@@ -14,4 +14,4 @@ https://github.com/deryyy/dapsample/tree/main/nervos-create-nft-main
 Deployed Contract Address: ``` 0xAbf371c448436C74a987A7786B0BbFb8957Aac75 ``` 
 
 Transaction Hash: ``` 0x003f44840e1962f7b8dc89c689ee854fa260cf0c814abf83b098a69e57dc511a
-```
+
