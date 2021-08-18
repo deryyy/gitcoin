@@ -9,7 +9,7 @@
 ![](https://raw.githubusercontent.com/deryyy/gitcoin/main/TAS%208/TAS%208%202.png)
 
 #3 Confirm Bridge transaction
-![](https://raw.githubusercontent.com/deryyy/gitcoin/main/TAS%208/TAS%208%203.png
+![](https://raw.githubusercontent.com/deryyy/gitcoin/main/TAS%208/TAS%208%203.png)
 
 2. Transaction ID
 
